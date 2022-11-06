@@ -1,0 +1,5 @@
+api_key = 'ud6ogp8sgquk2evj'
+api_secret = 'yp2z8r7k40pp8jj2i6xir6848vgp2ddq'
+account_username = 'IUA563'
+account_password = 'Bujji@123'
+totp_key='4XZVY6LBEZBDLLAS4TRPVT5HIVSPCUHT'
